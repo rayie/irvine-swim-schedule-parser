@@ -1,0 +1,12 @@
+{
+  "name": "irvine-swim-schedule-parser",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "pdf2json": "*"
+  },
+  "author": { "name": "https://github.com/rayie" },
+  "license": "MIT",
+  "repository": "irvine-swim-schedule-parser",
+  "description": "parses a pdf report of our swim schedule into JS"
+}
